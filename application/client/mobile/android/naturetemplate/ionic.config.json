@@ -1,0 +1,7 @@
+{
+  "name": "naturetemplate",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
